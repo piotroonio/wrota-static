@@ -2,23 +2,28 @@
   "terminy": [
     {
       "data": "2026-08-12",
-      "opis": "środa 12 sierpnia 2026 r."
+      "opis": "środa 12 sierpnia 2026 r.",
+      "uwaga": ""
     },
     {
       "data": "2026-09-09",
-      "opis": "środa 9 września 2026 r."
+      "opis": "środa 9 września 2026 r.",
+      "uwaga": ""
     },
     {
       "data": "2026-10-14",
-      "opis": "środa 14 października 2026 r."
+      "opis": "środa 14 października 2026 r.",
+      "uwaga": ""
     },
     {
       "data": "2026-11-11",
-      "opis": "środa 11 listopada 2026 r."
+      "opis": "środa 11 listopada 2026 r.",
+      "uwaga": ""
     },
     {
       "data": "2026-12-09",
-      "opis": "środa 9 grudnia 2026 r."
+      "opis": "środa 9 grudnia 2026 r.",
+      "uwaga": ""
     }
   ]
 }

@@ -31,8 +31,22 @@ document.addEventListener(
                             "li"
                         );
 
-                    li.textContent =
-                        termin.opis;
+                    let html =
+                        `<span class="termin-data">${termin.opis}</span>`;
+
+                    if (
+                        termin.uwaga &&
+                        termin.uwaga.trim() !== ""
+                    ) {
+
+                        html += `
+                            <div class="termin-uwaga">
+                                ${termin.uwaga}
+                            </div>
+                        `;
+                    }
+
+                    li.innerHTML = html;
 
                     lista.appendChild(
                         li

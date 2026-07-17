@@ -66,6 +66,25 @@ body {
     padding: 2rem;
 }
 
+#terminy-list {
+    padding-left: 1.5rem;
+}
+
+#terminy-list li {
+    margin-bottom: 0.75rem;
+}
+
+.termin-data {
+    font-weight: 600;
+}
+
+.termin-uwaga {
+    margin-top: 0.25rem;
+    color: #b00020;
+    font-size: 0.95rem;
+    font-style: italic;
+}
+
 /* FOOTER */
 
 footer {
